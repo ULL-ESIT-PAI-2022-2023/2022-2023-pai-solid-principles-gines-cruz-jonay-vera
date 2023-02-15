@@ -1,0 +1,12 @@
+[submodule "2022-2023-IntroductionToJS"]
+	path = 2022-2023-IntroductionToJS
+	url = git@github.com:ULL-ESIT-PAI-2022-2023/2022-2023-pai-introduction-to-javascript-JSTeam.git
+[submodule "2022-2023-IntroductionToTS"]
+	path = 2022-2023-IntroductionToTS
+	url = git@github.com:alu0101329888/Introduction-to-TypeScript.git
+[submodule "2022-2023-CodeStyle-JSDoc-ESlint"]
+	path = 2022-2023-CodeStyle-JSDoc-ESlint
+	url = git@github.com:ULL-ESIT-PAI-2022-2023/2022-2023-pai-coding-style-jsdoc-eslint.git
+[submodule "2022-2023-UnitTesting-Jest"]
+	path = 2022-2023-UnitTesting-Jest
+	url = git@github.com:ULL-ESIT-PAI-2022-2023/2022-2023-pai-testing-introduction-Jest.git
